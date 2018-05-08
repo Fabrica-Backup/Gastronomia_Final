@@ -1,0 +1,13 @@
+/* Mensagens de Validação */
+
+.mensagens-erro {
+  color: red;
+}
+
+/* Cor dos Hiperlink */
+
+#hipertextColor, .hipertextColor {
+  color: black;
+}
+
+#mensagens-ing-receita-erro, color: red;
